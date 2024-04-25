@@ -4,7 +4,6 @@ Developed and launched a React Native food delivery app from concept to producti
 Created Home Screen , Restaurant Screen , Dishes , Delivery Screen , And a Loading Screen.
 Used Tailwind CSS for styling & Redux to setup the store.
 Used Expo for Building React-Native Apps.
-![WhatsApp Image 2024-04-25 at 22 33 27_af8d4d31](https://github.com/ANUJAVENGERS/Food-Delivery-App/assets/58434371/d0a30c92-e42c-407e-b2f2-fcaee86ac7a7)
 <div align="center">
-    <img src="./Images/WhatsApp Image 2024-04-25 at 22 33 27_af8d4d31.jpg"  align="center" />
+    <img src="https://github.com/ANUJAVENGERS/Food-Delivery-App/blob/main/Images/WhatsApp%20Image%202024-04-25%20at%2022.33.27_af8d4d31.jpg"  align="center" />
 </div>
