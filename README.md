@@ -6,4 +6,5 @@ Used Tailwind CSS for styling & Redux to setup the store.
 Used Expo for Building React-Native Apps.
 <div align="center">
     <img src="https://github.com/ANUJAVENGERS/Food-Delivery-App/blob/main/Images/WhatsApp%20Image%202024-04-25%20at%2022.33.27_af8d4d31.jpg"  align="center" />
+    <img src="https://github.com/ANUJAVENGERS/Food-Delivery-App/blob/main/Images/WhatsApp%20Image%202024-04-25%20at%2022.33.28_a4a8b47a.jpg"  align="center" />
 </div>
